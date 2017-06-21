@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Write by muchance
 
 exec 2> /tmp/setup.log
 
